@@ -10,7 +10,6 @@ describe('My Little Hero', function () {
 
         it('TC-001 Title is correct ', function () {
             let title = browser.getTitle();
-            browser.pause(2000);
             expect(title).toEqual('MLH trial');
         });
     });
