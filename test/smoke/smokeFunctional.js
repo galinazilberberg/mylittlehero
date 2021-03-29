@@ -1,5 +1,6 @@
 import sel from '../../data/selectors';
 import {name,gender,age, story} from '../../data/testData';
+import inputValues4 from '../../helpers/methods';
 
 describe('Labels are Correct', function () {
 
