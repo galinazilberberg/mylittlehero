@@ -14,6 +14,7 @@ const elements ={
     "tryAgain":".btn-primary",
     "storyTitle":"h4",
     "storyText" :".card-text",
-    "storyImage": "#img"
+    "storyImage": "#img",
+    "errorAlert":".ant-form-item-explain",
 }
 module.exports = elements;
