@@ -61,16 +61,4 @@ describe('Labels are Correct', function () {
         let button = $(sel.submit).getText();
         expect(button).toEqual(exp.submitText);
     });
-
-
-
-
-
-
-
-
-
-
-
-
 });
