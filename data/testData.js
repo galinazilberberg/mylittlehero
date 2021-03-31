@@ -45,4 +45,14 @@ const story =  {
     "comedy": 6
 }
 
-module.exports = {name, gender, age, story};
+
+const labels = {
+    "name":0,
+    "gender":1,
+     "age":2,
+     "story":3,
+     "image":4
+
+}
+
+module.exports = {name, gender, age, story, labels};

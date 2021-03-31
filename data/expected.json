@@ -3,7 +3,7 @@
   "header": "My Little Hero",
   "instruction": "Let's create your own HERO! It's super easy with our application!",
   "nameLabel": "1. What is your Hero's name?",
-  "genderlabel": "2. Please choose a gender.",
+  "genderLabel": "2. Please choose a gender.",
   "heLabel": "he",
   "sheLabel": "she",
   "itLabel": "it",
@@ -15,5 +15,6 @@
   "storyText": "After a feast, two cats see a piece of cake and start fighting for it.\nLadyBug 007, who is 1234567890 old, sees this as an opportunity for gain and offers to help them. Our hero divides the cake into two parts but shakes her head saying they are unequal. female takes a bite of one piece and then the other, but still finds them unequal.\nfemale continues doing so until there is no more cake left. leaving the poor little cats disappointed.",
   "moralText": "Moral: When you quarrel amongst yourselves, someone else gains from it.",
   "namePlaceholder":"Hero's name",
-  "agePlaceholder": "Hero's age"
+  "agePlaceholder": "Hero's age",
+  "storyPlaceholder": "Type of the story"
 }

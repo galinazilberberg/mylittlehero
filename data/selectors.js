@@ -13,8 +13,12 @@ const elements ={
     "submit" : ".ant-btn",
     "tryAgain":".btn-primary",
     "storyTitle":"h4",
-    "storyText" :".card-text",
+    "storyText" :"p:nth-of-type(1)",
     "storyImage": "#img",
     "errorAlert":".ant-form-item-explain",
+    "storyTypeSel":"span.ant-select-selection-placeholder",
+    "dropDownMenu": ".ant-select-dropdown",
+    "storyMoral":"p:nth-of-type(2)"
+
 }
 module.exports = elements;

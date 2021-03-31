@@ -24,7 +24,7 @@ describe('Labels are Correct', function () {
 
     it('TC-018 Gender field label = "2. Please choose a gender."', function () {
         let label = $$(sel.requiredLabel)[1].getText();
-        expect(label).toEqual(exp.genderlabel);
+        expect(label).toEqual(exp.genderLabel);
     });
 
     it('TC-019 The first button label = "he"', function () {

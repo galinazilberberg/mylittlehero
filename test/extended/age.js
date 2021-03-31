@@ -93,7 +93,7 @@ describe('Age field suit', function () {
 
             //TC-070 -N/A any more
 
-            //TC-071 - Age field accept doesn't spin dow
+            //TC-071 - Age field accept doesn't spin down
         });
 
     });
