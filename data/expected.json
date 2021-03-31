@@ -20,5 +20,8 @@
   "spinUp1": "1",
   "spinUp2": "2",
   "trimmed0": "23",
-  "spinDown4": "4"
+  "spinDown4": "4",
+  "errorMessageRequired": "Required",
+  "errorMessage70" : "70 symbols max",
+  "errorMessageNotReal": "looks like unreal age"
 }

@@ -111,11 +111,17 @@ describe('Age field suit', function () {
                 expect(errorMessage).toEqual(true);
             });
 
-            it('TC-068 Age field dasn\'t accept negative numbers ', function () {
+            it('TC-068a Age field dasn\'t accept negative numbers ', function () {
                 $(sel.age).setValue(age.negative);
                 $(sel.name).click();
                 let errorMessage = $(sel.age).waitForDisplayed();
                 expect(errorMessage).toEqual(true);
+            });
+            it('TC-068b Age field dasn\'t accept negative numbers ', function () {
+                $(sel.age).setValue(age.negative);
+                $(sel.name).click();
+                let errorMessage = $(sel.age).getText();
+                expect(errorMessage).toEqual(exp.errorMessageNotReal);
             });
 
             it('TC-069 Age field accept doesn\'t  float digits ', function () {
