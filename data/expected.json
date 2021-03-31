@@ -16,5 +16,9 @@
   "moralText": "Moral: When you quarrel amongst yourselves, someone else gains from it.",
   "namePlaceholder":"Hero's name",
   "agePlaceholder": "Hero's age",
-  "storyPlaceholder": "Type of the story"
+  "storyPlaceholder": "Type of the story",
+  "spinUp1": "1",
+  "spinUp2": "2",
+  "trimmed0": "23",
+  "spinDown4": "4"
 }

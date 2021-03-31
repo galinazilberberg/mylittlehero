@@ -31,6 +31,10 @@ const age = {
     "symbols":" ~!@#$%^&*()_+{}][\\|?>,< ",
     "negative":"-23",
     "float": "23.3453",
+    "spindown":"5",
+    "emptyField": ""
+
+
 
 
 }
@@ -49,9 +53,9 @@ const story =  {
 const labels = {
     "name":0,
     "gender":1,
-     "age":2,
-     "story":3,
-     "image":4
+    "age":2,
+    "story":3,
+    "image":4
 
 }
 

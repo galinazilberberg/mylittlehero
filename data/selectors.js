@@ -18,7 +18,10 @@ const elements ={
     "errorAlert":".ant-form-item-explain",
     "storyTypeSel":"span.ant-select-selection-placeholder",
     "dropDownMenu": ".ant-select-dropdown",
-    "storyMoral":"p:nth-of-type(2)"
+    "storyMoral":"p:nth-of-type(2)",
+    "spinUpAge": ".ant-input-number-handler-up",
+    "spinDownAge": ".ant-input-number-handler-down",
+    "errorMessage" : "div[role='alert']"
 
 }
 module.exports = elements;
