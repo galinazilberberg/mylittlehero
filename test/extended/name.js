@@ -80,7 +80,7 @@ import {clearName, inputValues4} from "../../helpers/methods";
 
             // it('TC-037 Name field accepts copy/past functionality', function () {
 
-        describe('Sub- suit: Positive Cases', function (){
+        describe('Sub- suit: Negative Cases', function (){
 
             // it('TC-038 Name field doesn't accept SQL/XML code ingections', function () {
             //
