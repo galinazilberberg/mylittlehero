@@ -1,6 +1,6 @@
 import sel from '../../data/selectors';
 import {name,gender,age,story} from '../../data/testData';
-import inputValues4 from '../../helpers/methods';
+import {inputValues4} from '../../helpers/methods';
 import path from 'path';
 
 describe('Story Elements Exist', function () {

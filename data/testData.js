@@ -59,4 +59,8 @@ const labels = {
 
 }
 
-module.exports = {name, gender, age, story, labels};
+const images = {
+    "jpeg2":"../data/image.jpg"
+}
+
+module.exports = {name, gender, age, story, labels,images};

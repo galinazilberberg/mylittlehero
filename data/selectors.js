@@ -26,8 +26,10 @@ const elements ={
     "radioBtnShe":"input[type= 'radio'][class='ant-radio-input'][value='she']",
     "radioBtnIt":"input[type= 'radio'][class='ant-radio-input'][value='it']",
     "imageUpload": ".ant-upload input",
-    "imagePreview": "//a[@class='ant-upload-list-item-thumbnail']",
+    // "imagePreview": "//a[@class='ant-upload-list-item-thumbnail']",
+    "imagePreview": ".ant-upload-list-item-thumbnail",
     "imageError": ".ant-message-notice",
+
 
 }
 module.exports = elements;

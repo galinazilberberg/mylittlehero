@@ -23,5 +23,6 @@
   "spinDown4": "4",
   "errorMessageRequired": "Required",
   "errorMessage70" : "70 symbols max",
-  "errorMessageNotReal": "looks like unreal age"
+  "errorMessageNotReal": "looks like unreal age",
+  "imagePlaceholder": "Click or drag and drop"
 }
